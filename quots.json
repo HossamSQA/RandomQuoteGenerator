@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 18,
+    "email": "john@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "sdfFDc sF",
+    "age": 2432,
+    "email": "john@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "werq sdf",
+    "age": 324,
+    "email": "john@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "xcvbz",
+    "age": 14568,
+    "email": "john@gmail.com"
+  }
+]
